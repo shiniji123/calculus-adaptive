@@ -1,0 +1,262 @@
+[
+  {
+    "id": "L5-01",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(1x)}{x}",
+    "choices": [
+      "1",
+      "1",
+      "0.5",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-02",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(2x)}{x}",
+    "choices": [
+      "2",
+      "4",
+      "1.0",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-03",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(3x)}{x}",
+    "choices": [
+      "3",
+      "9",
+      "1.5",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-04",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(4x)}{x}",
+    "choices": [
+      "4",
+      "16",
+      "2.0",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-05",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(5x)}{x}",
+    "choices": [
+      "5",
+      "25",
+      "2.5",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-06",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(6x)}{x}",
+    "choices": [
+      "6",
+      "36",
+      "3.0",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-07",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(7x)}{x}",
+    "choices": [
+      "7",
+      "49",
+      "3.5",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-08",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(8x)}{x}",
+    "choices": [
+      "8",
+      "64",
+      "4.0",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-09",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(9x)}{x}",
+    "choices": [
+      "9",
+      "81",
+      "4.5",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-10",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{\\sin(10x)}{x}",
+    "choices": [
+      "10",
+      "100",
+      "5.0",
+      "1"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-11",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(9x)}{x^2}",
+    "choices": [
+      "\\frac{81}{2}",
+      "9",
+      "81",
+      "\\frac{9}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-12",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(1x)}{x^2}",
+    "choices": [
+      "\\frac{1}{2}",
+      "1",
+      "1",
+      "\\frac{1}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-13",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(6x)}{x^2}",
+    "choices": [
+      "\\frac{36}{2}",
+      "6",
+      "36",
+      "\\frac{6}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-14",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(3x)}{x^2}",
+    "choices": [
+      "\\frac{9}{2}",
+      "3",
+      "9",
+      "\\frac{3}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-15",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(8x)}{x^2}",
+    "choices": [
+      "\\frac{64}{2}",
+      "8",
+      "64",
+      "\\frac{8}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-16",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(5x)}{x^2}",
+    "choices": [
+      "\\frac{25}{2}",
+      "5",
+      "25",
+      "\\frac{5}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-17",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(4x)}{x^2}",
+    "choices": [
+      "\\frac{16}{2}",
+      "4",
+      "16",
+      "\\frac{4}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-18",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(10x)}{x^2}",
+    "choices": [
+      "\\frac{100}{2}",
+      "10",
+      "100",
+      "\\frac{10}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-19",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(2x)}{x^2}",
+    "choices": [
+      "\\frac{4}{2}",
+      "2",
+      "4",
+      "\\frac{2}{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "L5-20",
+    "chapter": "limits",
+    "difficulty": 5,
+    "question": "\\lim_{x\\to 0} \\frac{1-\\cos(7x)}{x^2}",
+    "choices": [
+      "\\frac{49}{2}",
+      "7",
+      "49",
+      "\\frac{7}{2}"
+    ],
+    "correctIndex": 0
+  }
+]

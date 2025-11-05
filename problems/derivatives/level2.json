@@ -1,0 +1,262 @@
+[
+  {
+    "id": "D2-01",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=5x^2+4x+-5\\,\\ จงหา\\ f'(1)",
+    "choices": [
+      "14",
+      "15",
+      "13",
+      "24"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-02",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=5x^2+1x+2\\,\\ จงหา\\ f'(2)",
+    "choices": [
+      "21",
+      "22",
+      "20",
+      "31"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-03",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=1x^2+-3x+0\\,\\ จงหา\\ f'(3)",
+    "choices": [
+      "3",
+      "4",
+      "2",
+      "5"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-04",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=3x^2+-1x+-5\\,\\ จงหา\\ f'(4)",
+    "choices": [
+      "23",
+      "24",
+      "22",
+      "29"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-05",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=2x^2+5x+-4\\,\\ จงหา\\ f'(5)",
+    "choices": [
+      "25",
+      "26",
+      "24",
+      "29"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-06",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=1x^2+3x+-4\\,\\ จงหา\\ f'(6)",
+    "choices": [
+      "15",
+      "16",
+      "14",
+      "17"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-07",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=5x^2+-2x+-3\\,\\ จงหา\\ f'(7)",
+    "choices": [
+      "68",
+      "69",
+      "67",
+      "78"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-08",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=4x^2+4x+-3\\,\\ จงหา\\ f'(8)",
+    "choices": [
+      "68",
+      "69",
+      "67",
+      "76"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-09",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=3x^2+4x+4\\,\\ จงหา\\ f'(9)",
+    "choices": [
+      "58",
+      "59",
+      "57",
+      "64"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-10",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=4x^2+-1x+3\\,\\ จงหา\\ f'(10)",
+    "choices": [
+      "79",
+      "80",
+      "78",
+      "87"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-11",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=6x^2+1x+1\\,\\ จงหา\\ f'(4)",
+    "choices": [
+      "49",
+      "51",
+      "47",
+      "61"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-12",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=4x^2+5x+2\\,\\ จงหา\\ f'(6)",
+    "choices": [
+      "53",
+      "55",
+      "51",
+      "61"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-13",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=2x^2+0x+-4\\,\\ จงหา\\ f'(2)",
+    "choices": [
+      "8",
+      "10",
+      "6",
+      "12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-14",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=1x^2+6x+3\\,\\ จงหา\\ f'(6)",
+    "choices": [
+      "18",
+      "20",
+      "16",
+      "20"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-15",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=5x^2+0x+-5\\,\\ จงหา\\ f'(4)",
+    "choices": [
+      "40",
+      "42",
+      "38",
+      "50"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-16",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=6x^2+7x+-5\\,\\ จงหา\\ f'(2)",
+    "choices": [
+      "31",
+      "33",
+      "29",
+      "43"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-17",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=1x^2+-3x+0\\,\\ จงหา\\ f'(4)",
+    "choices": [
+      "5",
+      "7",
+      "3",
+      "7"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-18",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=5x^2+0x+-1\\,\\ จงหา\\ f'(2)",
+    "choices": [
+      "20",
+      "22",
+      "18",
+      "30"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-19",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=2x^2+5x+-3\\,\\ จงหา\\ f'(8)",
+    "choices": [
+      "37",
+      "39",
+      "35",
+      "41"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D2-20",
+    "chapter": "derivatives",
+    "difficulty": 2,
+    "question": "ให้\\ f(x)=2x^2+4x+1\\,\\ จงหา\\ f'(8)",
+    "choices": [
+      "36",
+      "38",
+      "34",
+      "40"
+    ],
+    "correctIndex": 0
+  }
+]

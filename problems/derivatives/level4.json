@@ -1,0 +1,262 @@
+[
+  {
+    "id": "D4-01",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(1x-1)\\big)",
+    "choices": [
+      "1\\cos(1x-1)",
+      "\\cos(1x-1)",
+      "1\\sin(1x-1)",
+      "-1\\sin(1x-1)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-02",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(2x-2)\\big)",
+    "choices": [
+      "2\\cos(2x-2)",
+      "\\cos(2x-2)",
+      "2\\sin(2x-2)",
+      "-2\\sin(2x-2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-03",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(3x-1)\\big)",
+    "choices": [
+      "3\\cos(3x-1)",
+      "\\cos(3x-1)",
+      "3\\sin(3x-1)",
+      "-3\\sin(3x-1)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-04",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(4x+0)\\big)",
+    "choices": [
+      "4\\cos(4x+0)",
+      "\\cos(4x+0)",
+      "4\\sin(4x+0)",
+      "-4\\sin(4x+0)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-05",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(5x-2)\\big)",
+    "choices": [
+      "5\\cos(5x-2)",
+      "\\cos(5x-2)",
+      "5\\sin(5x-2)",
+      "-5\\sin(5x-2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-06",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(6x+2)\\big)",
+    "choices": [
+      "6\\cos(6x+2)",
+      "\\cos(6x+2)",
+      "6\\sin(6x+2)",
+      "-6\\sin(6x+2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-07",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(7x+2)\\big)",
+    "choices": [
+      "7\\cos(7x+2)",
+      "\\cos(7x+2)",
+      "7\\sin(7x+2)",
+      "-7\\sin(7x+2)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-08",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(8x-1)\\big)",
+    "choices": [
+      "8\\cos(8x-1)",
+      "\\cos(8x-1)",
+      "8\\sin(8x-1)",
+      "-8\\sin(8x-1)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-09",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(9x+0)\\big)",
+    "choices": [
+      "9\\cos(9x+0)",
+      "\\cos(9x+0)",
+      "9\\sin(9x+0)",
+      "-9\\sin(9x+0)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-10",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(\\sin(10x-1)\\big)",
+    "choices": [
+      "10\\cos(10x-1)",
+      "\\cos(10x-1)",
+      "10\\sin(10x-1)",
+      "-10\\sin(10x-1)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-11",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{1x-3}\\big)",
+    "choices": [
+      "1e^{1x-3}",
+      "e^{1x-3}",
+      "1e^{1x}",
+      "-2e^{1x-3}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-12",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{4x-2}\\big)",
+    "choices": [
+      "4e^{4x-2}",
+      "e^{4x-2}",
+      "4e^{4x}",
+      "2e^{4x-2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-13",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{1x+0}\\big)",
+    "choices": [
+      "1e^{1x+0}",
+      "e^{1x+0}",
+      "1e^{1x}",
+      "1e^{1x+0}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-14",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{5x+1}\\big)",
+    "choices": [
+      "5e^{5x+1}",
+      "e^{5x+1}",
+      "5e^{5x}",
+      "6e^{5x+1}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-15",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{2x+2}\\big)",
+    "choices": [
+      "2e^{2x+2}",
+      "e^{2x+2}",
+      "2e^{2x}",
+      "4e^{2x+2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-16",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{1x+0}\\big)",
+    "choices": [
+      "1e^{1x+0}",
+      "e^{1x+0}",
+      "1e^{1x}",
+      "1e^{1x+0}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-17",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{3x+1}\\big)",
+    "choices": [
+      "3e^{3x+1}",
+      "e^{3x+1}",
+      "3e^{3x}",
+      "4e^{3x+1}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-18",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{2x+4}\\big)",
+    "choices": [
+      "2e^{2x+4}",
+      "e^{2x+4}",
+      "2e^{2x}",
+      "6e^{2x+4}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-19",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{5x+1}\\big)",
+    "choices": [
+      "5e^{5x+1}",
+      "e^{5x+1}",
+      "5e^{5x}",
+      "6e^{5x+1}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D4-20",
+    "chapter": "derivatives",
+    "difficulty": 4,
+    "question": "จงหา\\ \\frac{d}{dx}\\big(e^{5x-3}\\big)",
+    "choices": [
+      "5e^{5x-3}",
+      "e^{5x-3}",
+      "5e^{5x}",
+      "2e^{5x-3}"
+    ],
+    "correctIndex": 0
+  }
+]

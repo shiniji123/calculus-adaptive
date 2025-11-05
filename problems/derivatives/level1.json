@@ -1,0 +1,262 @@
+[
+  {
+    "id": "D1-01",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 6x^{2}",
+    "choices": [
+      "12x^{1}",
+      "6x^{0}",
+      "6x^{1}",
+      "12x^{2}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-02",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 6x^{3}",
+    "choices": [
+      "18x^{2}",
+      "12x^{1}",
+      "6x^{2}",
+      "18x^{3}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-03",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 1x^{4}",
+    "choices": [
+      "4x^{3}",
+      "3x^{2}",
+      "1x^{3}",
+      "4x^{4}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-04",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 6x^{5}",
+    "choices": [
+      "30x^{4}",
+      "24x^{3}",
+      "6x^{4}",
+      "30x^{5}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-05",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 5x^{6}",
+    "choices": [
+      "30x^{5}",
+      "25x^{4}",
+      "5x^{5}",
+      "30x^{6}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-06",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 3x^{7}",
+    "choices": [
+      "21x^{6}",
+      "18x^{5}",
+      "3x^{6}",
+      "21x^{7}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-07",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 6x^{8}",
+    "choices": [
+      "48x^{7}",
+      "42x^{6}",
+      "6x^{7}",
+      "48x^{8}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-08",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 3x^{9}",
+    "choices": [
+      "27x^{8}",
+      "24x^{7}",
+      "3x^{8}",
+      "27x^{9}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-09",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 1x^{10}",
+    "choices": [
+      "10x^{9}",
+      "9x^{8}",
+      "1x^{9}",
+      "10x^{10}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-10",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 3x^{11}",
+    "choices": [
+      "33x^{10}",
+      "30x^{9}",
+      "3x^{10}",
+      "33x^{11}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-11",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 2x^{5}",
+    "choices": [
+      "10x^{4}",
+      "2x^{4}",
+      "10x^{5}",
+      "8x^{3}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-12",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 1x^{5}",
+    "choices": [
+      "5x^{4}",
+      "1x^{4}",
+      "5x^{5}",
+      "4x^{3}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-13",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 3x^{7}",
+    "choices": [
+      "21x^{6}",
+      "3x^{6}",
+      "21x^{7}",
+      "18x^{5}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-14",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 2x^{6}",
+    "choices": [
+      "12x^{5}",
+      "2x^{5}",
+      "12x^{6}",
+      "10x^{4}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-15",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 1x^{6}",
+    "choices": [
+      "6x^{5}",
+      "1x^{5}",
+      "6x^{6}",
+      "5x^{4}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-16",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 3x^{8}",
+    "choices": [
+      "24x^{7}",
+      "3x^{7}",
+      "24x^{8}",
+      "21x^{6}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-17",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 5x^{8}",
+    "choices": [
+      "40x^{7}",
+      "5x^{7}",
+      "40x^{8}",
+      "35x^{6}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-18",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 2x^{6}",
+    "choices": [
+      "12x^{5}",
+      "2x^{5}",
+      "12x^{6}",
+      "10x^{4}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-19",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 3x^{3}",
+    "choices": [
+      "9x^{2}",
+      "3x^{2}",
+      "9x^{3}",
+      "6x^{1}"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D1-20",
+    "chapter": "derivatives",
+    "difficulty": 1,
+    "question": "จงหา\\ f'(x)\\ \\text{ของ}\\ f(x) = 2x^{8}",
+    "choices": [
+      "16x^{7}",
+      "2x^{7}",
+      "16x^{8}",
+      "14x^{6}"
+    ],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "id": "D5-01",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ x^2+y^2=5^2\\,\\ ที่จุด\\ (3,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{3}{4}",
+      "-\\frac{4}{3}",
+      "\\frac{4}{3}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-02",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ x^2+y^2=5^2\\,\\ ที่จุด\\ (4,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{4}{3}",
+      "-\\frac{3}{4}",
+      "\\frac{3}{4}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-03",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ x^2+y^2=13^2\\,\\ ที่จุด\\ (5,12)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{5}{12}",
+      "-\\frac{12}{5}",
+      "\\frac{12}{5}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-04",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ x^2+y^2=10^2\\,\\ ที่จุด\\ (6,8)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{3}{4}",
+      "-\\frac{4}{3}",
+      "\\frac{4}{3}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-05",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ x^2+y^2=10^2\\,\\ ที่จุด\\ (8,6)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{4}{3}",
+      "-\\frac{3}{4}",
+      "\\frac{3}{4}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-06",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{5^2}=1\\,\\ ที่จุด\\ (1,5)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{5}{16}",
+      "\\frac{5}{16}",
+      "-\\frac{16}{5}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-07",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{3^2}=1\\,\\ ที่จุด\\ (2,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{3}{8}",
+      "\\frac{3}{8}",
+      "-\\frac{8}{3}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-08",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{3^2}+\\frac{y^2}{3^2}=1\\,\\ ที่จุด\\ (1,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{1}{3}",
+      "\\frac{1}{3}",
+      "-\\frac{3}{1}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-09",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{5^2}=1\\,\\ ที่จุด\\ (3,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{25}{16}",
+      "\\frac{25}{16}",
+      "-\\frac{16}{25}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-10",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{3^2}+\\frac{y^2}{4^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{4}{9}",
+      "\\frac{4}{9}",
+      "-\\frac{9}{4}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-11",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{2^2}+\\frac{y^2}{5^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{25}{16}",
+      "\\frac{25}{16}",
+      "-\\frac{16}{25}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-12",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{2^2}+\\frac{y^2}{5^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{25}{16}",
+      "\\frac{25}{16}",
+      "-\\frac{16}{25}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-13",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{4^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{1}{4}",
+      "\\frac{1}{4}",
+      "-\\frac{4}{1}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-14",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{2^2}+\\frac{y^2}{3^2}=1\\,\\ ที่จุด\\ (1,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{3}{4}",
+      "\\frac{3}{4}",
+      "-\\frac{4}{3}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-15",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{3^2}+\\frac{y^2}{4^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{4}{9}",
+      "\\frac{4}{9}",
+      "-\\frac{9}{4}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-16",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{2^2}+\\frac{y^2}{4^2}=1\\,\\ ที่จุด\\ (1,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{4}{3}",
+      "\\frac{4}{3}",
+      "-\\frac{3}{4}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-17",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{4^2}=1\\,\\ ที่จุด\\ (3,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{1}{1}",
+      "\\frac{1}{1}",
+      "-\\frac{1}{1}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-18",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{4^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{1}{4}",
+      "\\frac{1}{4}",
+      "-\\frac{4}{1}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-19",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{4^2}+\\frac{y^2}{3^2}=1\\,\\ ที่จุด\\ (1,3)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{3}{16}",
+      "\\frac{3}{16}",
+      "-\\frac{16}{3}",
+      "0"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "D5-20",
+    "chapter": "derivatives",
+    "difficulty": 5,
+    "question": "ให้\\ \\frac{x^2}{2^2}+\\frac{y^2}{5^2}=1\\,\\ ที่จุด\\ (1,4)\\,\\ จงหา\\ \\frac{dy}{dx}",
+    "choices": [
+      "-\\frac{25}{16}",
+      "\\frac{25}{16}",
+      "-\\frac{16}{25}",
+      "0"
+    ],
+    "correctIndex": 0
+  }
+]

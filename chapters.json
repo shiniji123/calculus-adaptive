@@ -1,0 +1,21 @@
+{
+  "chapters": [
+    {
+      "key": "limits",
+      "title": "บทที่ 1: Limits & Continuity"
+    },
+    {
+      "key": "derivatives",
+      "title": "บทที่ 2: Derivatives"
+    }
+  ],
+  "levels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "itemsPerLevel": 20,
+  "language": "th"
+}
