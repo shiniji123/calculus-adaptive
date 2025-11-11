@@ -7,14 +7,17 @@
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
   <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
-  <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <link rel="stylesheet" href="./style.css" />
 </head>
 <body>
   <header class="site-header">
-    <h1>แบบฝึกหัดแคลคูลัสแบบปรับระดับ (Adaptive)</h1>
-    <p class="subtitle">Static Web • ไม่มี Backend • เรนเดอร์ LaTeX แบบทันที</p>
+    <div class="header-inner">
+      <div>
+        <h1>Calculus Adaptive Exercise System</h1>
+      </div>
+      <button id="themeToggle" class="theme-toggle" aria-label="สลับเป็นโหมดมืด">🌙</button>
+    </div>
   </header>
 
   <main id="app">
@@ -31,13 +34,14 @@
           <input id="questionCount" type="number" min="15" max="100" value="20" />
         </div>
         <div class="form-row hint">
-          <p>หมายเหตุ: ถ้ากด “ข้าม/ข้อถัดไป” จะนับว่า <strong>ตอบผิด</strong> โดยอัตโนมัติ กรุณาทำให้ครบทุกข้อ ✨</p>
+          <p>
+            หมายเหตุ: ถ้ากด <strong>“ข้าม”</strong> โดยยังไม่เลือกคำตอบ
+            ระบบจะนับว่า <strong>ตอบผิด</strong> อัตโนมัติ
+            แนะนำให้ทำให้ครบทุกข้อก่อนสอบจริง ✨
+          </p>
         </div>
         <div class="actions">
           <button id="btnStart" class="btn primary">เริ่มทำแบบฝึกหัด</button>
-        </div>
-        <div class="footnote">
-          <p>เว็บไซต์นี้เป็น Prototype แบบ Static HTML / CSS / JS รองรับการใช้งานบนมือถือและแท็บเล็ต</p>
         </div>
       </div>
     </section>
@@ -45,8 +49,8 @@
     <!-- Quiz Screen -->
     <section id="screen-quiz" class="screen">
       <div class="quiz-top">
-        <div id="progressWrap" class="progress-wrap">
-          <div id="progressBar" class="progress-bar" style="width:0%"></div>
+        <div class="progress-wrap">
+          <div id="progressBar" class="progress-bar"></div>
         </div>
         <div class="quiz-meta">
           <span id="metaIndex">ข้อ 1/20</span>
@@ -58,7 +62,7 @@
         <h3 id="quizQuestion" class="latex"></h3>
         <div id="choices" class="choices"></div>
         <div class="actions">
-          <button id="btnNext" class="btn">ข้อถัดไป</button>
+          <button id="btnNext" class="btn">ข้าม</button>
         </div>
       </div>
     </section>
@@ -67,21 +71,29 @@
     <section id="screen-result" class="screen">
       <div class="card">
         <h2>สรุปผล</h2>
-        <p id="finalAverage" class="final-avg"></p>
-        <canvas id="resultChart" width="400" height="300"></canvas>
+
+        <div class="result-layout">
+          <!-- ฝั่งสรุป -->
+          <div class="result-summary">
+            <p id="finalAverage" class="final-avg"></p>
+            <div id="levelSummary" class="level-summary"></div>
+          </div>
+
+          <!-- ฝั่งกราฟ -->
+          <div class="result-chart-wrap">
+            <canvas id="resultChart"></canvas>
+          </div>
+        </div>
+
         <div class="actions">
           <button id="btnRestart" class="btn primary">ทำแบบทดสอบใหม่อีกครั้ง</button>
-        </div>
-        <div class="history">
-          <h3>ประวัติการทำล่าสุด</h3>
-          <ul id="historyList"></ul>
         </div>
       </div>
     </section>
   </main>
 
   <footer class="site-footer">
-    <p>© 2025 Calculus Adaptive Exercise • Static Prototype</p>
+    <p>© 2025 Calculus Adaptive Exercise</p>
   </footer>
 
   <script src="./app.js"></script>
